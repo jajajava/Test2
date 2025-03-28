@@ -1,6 +1,14 @@
 # Test2
 Introduction to Software Engineering test 2
 
+# About me:
+<pre>
+Name: David Stepanov
+Eagle ID: 901396772
+Email: ds29123@georgiasouthern.edu
+</pre>
+
+
 # Test cases:
 1. testPlaceOrder: Add items to the order, verify the number of items, and check if the total cost is calculated correctly.
 2. testPayOrder: Add an item to the order, pay using a method, and verify that the order is marked as paid.
